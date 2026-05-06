@@ -1,0 +1,8 @@
+@article{aarabi2021periodontitis,
+  title={Periodontitis as potential risk factor for Alzheimer’s disease},
+  author={Aarabi, G and Thomalla, G and Walther, C and Mayer, C and Beikler, T and Heydecke, G and Seedorf, U},
+  journal={Dtsch Zahn{\"a}rztl Z Int},
+  volume={3},
+  pages={121--8},
+  year={2021}
+}
