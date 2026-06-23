@@ -1,6 +1,0 @@
-
-username: email
-pass: Syahrul123!
-
-username: email
-pass: Andinurhikma!
