@@ -1,0 +1,1 @@
+Main text word count excluding abstract, references, and tables: 2,603 words.
